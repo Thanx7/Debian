@@ -1,0 +1,24 @@
+    1  cat /etc/hostname
+    2  ifconfig
+    3  poweroff
+    4  ping yandex.ru
+    5  cat /etc/hostname
+    6  ping 10.9.202.185
+    7  poweroff
+    8  cat /etc/hostname
+    9  cat /etc/hostname
+   10  ping 10.9.202.185
+   11  apt-get update
+   12  apt-get install openssh-server
+   13  cd /opt
+   14  ls
+   15  tar xfv agraph-4.14-linuxamd64.64.tar.gz
+   16  ls
+   17  cd agraph-4.14
+   18  ls
+   19  ./install-agraph
+   20  ./install-agraph /opt/agraph
+   21  /opt/agraph/bin/agraph-control --config /opt/agraph/lib/agraph.cfg start
+   22  .bash_history
+   23  history
+root@epbyminw2052t1:/opt/agraph-4.14# 
