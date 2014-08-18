@@ -1,0 +1,5 @@
+Network Settings
+
+Attached to: Bridged adapter
+Promiscuous Mode: Deny
+checked - Cable Connected
