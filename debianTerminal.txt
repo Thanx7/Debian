@@ -21,4 +21,6 @@
    21  /opt/agraph/bin/agraph-control --config /opt/agraph/lib/agraph.cfg start
    22  .bash_history
    23  history
-root@epbyminw2052t1:/opt/agraph-4.14# 
+root@epbyminw2052t1:/opt/agraph-4.14#
+
+/home/thanx7/agraph/bin/agraph-control --config /home/thanx7/agraph/lib/agraph.cfg start
